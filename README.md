@@ -9,3 +9,4 @@ Credit for PPO implementation:
 
 Credit for NEAT implementation: 
 
+https://github.com/HackerShackOfficial/OpenAI-NEAT
