@@ -5,8 +5,7 @@ https://github.com/nicknochnack/KerasRL-OpenAI-Atari-SpaceInvadersv0
 
 
 Credit for PPO implementation:
-https://github.com/HackerShackOfficial/OpenAI-NEAT
-
+https://github.com/sunghokoh/Breakout_DQN-DRQN-A3C-PPO
 
 Credit for NEAT implementation: 
 
