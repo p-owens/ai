@@ -1,0 +1,3 @@
+[submodule "OpenAI-NEAT"]
+	path = OpenAI-NEAT
+	url = https://github.com/fanduin/OpenAI-NEAT
